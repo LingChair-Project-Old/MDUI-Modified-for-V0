@@ -1,3 +1,7 @@
+## Deprecated
+
+由于铃之椅 V0 的停止开发, 本项目停止维护
+
 ## MDUI-Modified
 
 本项目基于 [MDUI](https://github.com/zdhxiong/mdui) 1.0.2 版本编译后的代码进行魔改
